@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Truong! 👋
 
-<!--
-**ptruong0504/ptruong0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Computer Science graduate from Michigan State University with a passion for building practical and reliable real-world software.
 
-Here are some ideas to get you started:
+📚 What I'm Learning 
+- Software Development: Building real-world applications using Python and C++
+- Computer Networks: Understanding how data moves across systems, including protocols, architecture, and network design.
+- Machine Learning: Exploring how models are built and trained to solve real-world problems.
+- Data Structures & Algorithms: Improving computational efficiency and writing cleaner, faster code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- Programming Languages: Python, C++, C, Java
+- Tools & Frameworks: Git, SQL, Docker, VS Code, CLion, Ubuntu
+- Libraries & Frameworks: Scikit-learn, Flask, NumPy, Matplotlib
+- Spoken Languages: English (Native), Vietnamese (Native)
+
+🤝 Connect With Me
+- https://www.linkedin.com/in/ptruong0504/
+- https://github.com/ptruong0504
